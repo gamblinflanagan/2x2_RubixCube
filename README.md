@@ -17,4 +17,30 @@ c
 * Open a terminal Shell
 * run `gcc cube.c`
 * to compile with ansi run `gcc -ansi -Wall -Wextra -Wpedantic -Werror cube.c`
-* run `a.out`
+* run `./a.out`
+
+### IMPORTANT the program takes commandline arguments after `./a.out`
+### Adding the following letters will rotate the specific side 1/4 rotation counter clockwise relative to the side
+
+* F(Front)
+* B(Back)
+* U(Top)
+* D(Bottom)
+* L(Left)
+* R(Right)
+
+### Adding a `+` sign next to any letter makes the rotation counterclockwise
+### Adding a `2` next to any letter adds another 1/4 rotation making it a total of 1/2 rotation (its the equivalent of entering a letter twice)
+
+### The following letters will rotate the cube 1/4 clockwise on a specific axis 
+
+* X(x-axis)
+* Y(y-axis)
+* Z(z-axis)
+
+### Adding a `+` sign next to any letter makes the rotation counterclockwise
+### Adding a `2` next to any letter adds another 1/4 rotation making it a total of 1/2 rotation (its the equivalent of entering a letter twice)
+
+
+
+
