@@ -10,7 +10,7 @@ c
 ### To Use:
 
 * `git clone https://github.com/gamblinflanagan/2x2_RubixCube/`
-* `run program in any c/c++ IDE`
+* `run the file cube.c in any c/c++ IDE`
 
 ### To Run In Linux/Unix Command Line:
 
