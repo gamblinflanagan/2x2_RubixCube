@@ -9,7 +9,7 @@ c
 
 ### To Use:
 
-* `git clone https://github.com/gamblinflanagan/2x2_RubixCube/`
+* `git clone https://github.com/gamblinflanagan/2x2_RubixCube.git`
 * `run the file cube.c in any c/c++ IDE`
 
 ### To Run In Linux/Unix Command Line:
