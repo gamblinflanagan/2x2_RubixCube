@@ -9,6 +9,7 @@ c
 
 ### To Use:
 
+* Open a terminal shell and navigate to the desired directory 
 * `git clone https://github.com/gamblinflanagan/2x2_RubixCube.git`
 * `run the file cube.c in any c/c++ IDE`
 
